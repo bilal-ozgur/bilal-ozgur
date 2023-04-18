@@ -13,4 +13,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+![giphy](https://user-images.githubusercontent.com/130503711/232926296-cefd22f7-9d81-405f-8b4c-02870b2ba307.gif)
 
+![data2](https://user-images.githubusercontent.com/130503711/232926313-76b71b54-f731-4eea-9c55-3fbe555871a1.gif)
