@@ -11,8 +11,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq">via GIPHY</a></p>
-
-
-<div class="tenor-gif-embed" data-postid="24166770" data-share-method="host" data-aspect-ratio="1.40351" data-width="100%"><a href="https://tenor.com/view/date-everywhere-data-digital-marketing-gif-24166770">Date Everywhere Data GIF</a>from <a href="https://tenor.com/search/date+everywhere-gifs">Date Everywhere GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![data](https://user-images.githubusercontent.com/130503711/232925985-0f5c6f3c-c77f-456c-8813-0bb3afd736dc.gif)
