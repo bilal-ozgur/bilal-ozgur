@@ -1,26 +1,65 @@
 <h1 align="center">Hi 👋, I'm Bilal Ozgur</h1>
-<h3 align="center">A data analyst from Poland</h3>
+<h2 align="center">A data analyst from Poland</h2>
 
-![BI](https://github.com/bilal-ozgur/bilal-ozgur/assets/130503711/67c07530-93d8-46fa-a335-5981d18d4d5b)
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://c10.patreonusercontent.com/4/patreon-media/p/post/84107536/720cab46567f4a78981b3496b5da35b1/eyJ3Ijo2MjB9/2.png?token-time=1695081600&token-hash=gsXr_TPxuAa0dkGibnqXeKpwM6HYhyO8OYya0gNEfjM%3D" height="40" alt="colab"  />
+  <img width="12" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" height="40" alt="tableau"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" height="40" alt="power_bi"  />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="40" alt="seaborn"  />
+  <img width="12" />
+  <img src="https://studyopedia.com/wp-content/uploads/2023/07/scipy.png" height="40" alt="scipy"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" height="40" alt="plotly"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" height="40" alt="matplotlib"  />
+  <img width="12" />
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" height="40" alt="excel"  />
+  <img width="12" />
+  <img src="https://www.nicepng.com/png/detail/457-4573752_read-more-on-how-you-can-use-your.png" height="40" alt="google_sheet"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  
+</div>
+
+###
+
+![data](https://user-images.githubusercontent.com/130503711/232925985-0f5c6f3c-c77f-456c-8813-0bb3afd736dc.gif) ![data](https://github.com/bilal-ozgur/bilal-ozgur/assets/130503711/0d34b823-1f8a-4fcf-be02-acaade42dfaf)
+
+
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bilal-ozgur&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=bilal-ozgur&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bilal-ozgur&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilal-ozgur&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-![data](https://user-images.githubusercontent.com/130503711/232925985-0f5c6f3c-c77f-456c-8813-0bb3afd736dc.gif) ![data](https://github.com/bilal-ozgur/bilal-ozgur/assets/130503711/0d34b823-1f8a-4fcf-be02-acaade42dfaf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bilal-talha-ozgur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-talha-ozgur/" height="30" width="40" /></a>
 </p>
+
+
+
+
+
+
+
 
 
 
