@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Ozgur</h1>
 <h3 align="center">A data analyst from Poland</h3>
 
-
+![BI](https://github.com/bilal-ozgur/bilal-ozgur/assets/130503711/67c07530-93d8-46fa-a335-5981d18d4d5b)
 
 
 # 📊 GitHub Stats:
