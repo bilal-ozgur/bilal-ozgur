@@ -1,9 +1,26 @@
 <h1 align="center">Hi 👋, I'm Bilal Ozgur</h1>
 <h2 align="center">A data analyst from Poland</h2>
 
+<h2 align="left">About me:</h2>
+
+📊 2+ years of experience as a Data Analyst.
+
+ 🚀 Having hands-on experience on Python (by using its well-known libraries NumPy, Pandas, SciPy, Seaborn, and Matplotlib) was applied to in data cleaning, handling with missing values and outliers, feature engineering, and dropping unnecessary rows and columns were utilized on EDA processes of raw data. 
+
+💻 Writing mid-level queries with SQL for data extraction, data manipulation and using Tableau and learning Power BI for visualization tasks and making analysis for business intelligence to get story telling insights, growing mindset with working with teamwork and helping team leaders on their data driven decisions.
+
+
+
+
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" height="40" alt="microsoftsqlserver"  />
+  <img width="12" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" height="40" alt="tableau"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" height="40" alt="power_bi"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -15,10 +32,6 @@
   <img width="12" />
   <img src="https://c10.patreonusercontent.com/4/patreon-media/p/post/84107536/720cab46567f4a78981b3496b5da35b1/eyJ3Ijo2MjB9/2.png?token-time=1695081600&token-hash=gsXr_TPxuAa0dkGibnqXeKpwM6HYhyO8OYya0gNEfjM%3D" height="40" alt="colab"  />
   <img width="12" />
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" height="40" alt="tableau"  />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png" height="40" alt="power_bi"  />
-  <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="40" alt="seaborn"  />
   <img width="12" />
   <img src="https://studyopedia.com/wp-content/uploads/2023/07/scipy.png" height="40" alt="scipy"  />
@@ -29,9 +42,10 @@
   <img width="12" />
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" height="40" alt="excel"  />
   <img width="12" />
-  <img src="https://www.nicepng.com/png/detail/457-4573752_read-more-on-how-you-can-use-your.png" height="40" alt="google_sheet"  />
+  <img src="https://www.computerhope.com/jargon/g/google-sheets.png" height="40" alt="google_sheet"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://testmatick.com/wp-content/uploads/2021/03/RegEx-Logo.png" height="40" alt="regex"  />
+  <img width="12" />
   
 </div>
 
