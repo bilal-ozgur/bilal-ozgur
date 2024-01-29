@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bilal Ozgur</h1>
-<h2 align="center">A data analyst from Poland</h2>
 
 <h2 align="left">About me:</h2>
 
