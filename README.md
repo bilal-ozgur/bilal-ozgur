@@ -2,7 +2,6 @@
 
 <h2 align="left">About me:</h2>
 
-📊 2+ years of experience as a Data Analyst.
 
  🚀 Having hands-on experience on Python (by using its well-known libraries NumPy, Pandas, SciPy, Seaborn, and Matplotlib) was applied to in data cleaning, handling with missing values and outliers, feature engineering, and dropping unnecessary rows and columns were utilized on EDA processes of raw data. 
 
